@@ -1,4 +1,4 @@
-const benchMark = require("./speedLIbrary")
+const benchMark = require("./speed-library")
 
 function findUniq(arr) {
    //mysolution
