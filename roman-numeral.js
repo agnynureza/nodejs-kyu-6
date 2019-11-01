@@ -31,7 +31,7 @@ function solution(number){
 
 
 function main(param){
-BenchMark(solution(param))
+    BenchMark(solution(param))
 }
 
 main(1990)
