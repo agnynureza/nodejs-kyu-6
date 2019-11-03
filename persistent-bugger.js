@@ -12,7 +12,7 @@ const BenchMark = require('./speed-library')
 let total = 0
 
 function persistence(num) {
-    
+
     //mysolution
   let string = String(num)
   if(string.length == 1){
