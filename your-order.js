@@ -19,6 +19,12 @@ function order(words){
         newWords[position] = ok[i]
     }
     return newWords.join(' ')
+
+    //best solution #1
+      
+    return words.split(' ').sort(function(a, b){
+        return a.match(/\d/) - b.match(/\d/);
+    }).join(' ');
   }
 
 function main(param){
