@@ -47,3 +47,8 @@ main(135440716410000) //4824
 main(40539911473216) //3568
 
   
+'India Foxtrot Yankee Oscar Uniform Charlie Alfa November Romeo Echo Alfa Delta'
+'India Foxtrot Yankee Oscar Uniform Charlie Alpha November Romeo Echo Alpha Delta'
+
+'Romeo Charlie Charlie Hotel November Romeo Tango Xray .'
+'Romeo Charlie Charlie Hotel November Romeo Tango XRay .'
