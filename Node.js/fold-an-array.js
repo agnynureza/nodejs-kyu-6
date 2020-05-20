@@ -18,7 +18,7 @@ function foldArray(array, runs){
                 let sum = array[i] + array[array.length - (i+1)]
                 newArray.push(sum)
             }
-        newArray.push(array[floor])
+            newArray.push(array[floor])
         }
         array = newArray
         newArray = []
